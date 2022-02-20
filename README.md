@@ -10,3 +10,6 @@
 1. 크롤링 - BeautifulSoup
 2. 키워드 분석 - konlpy,sklearn(TF-IDF)
 3. 감성분석- konlpy, sklearn(LogisticRegression), keras
+
+- 최종 PPT(201804236/캡스톤디자인_최종_201804236이혜규.pdf)
+: https://github.com/hyegyu/201804236/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%B5%9C%EC%A2%85_201804236%EC%9D%B4%ED%98%9C%EA%B7%9C.pdf
